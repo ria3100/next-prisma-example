@@ -1,0 +1,9 @@
+.node-version
+
+node_modules
+
+# build
+dist
+
+# next.js build output
+.next
